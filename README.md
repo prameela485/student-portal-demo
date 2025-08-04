@@ -1,5 +1,4 @@
-# student-portal-demo
-A basic student portal demo application for viewing courses, grades, announcements, and managing student profiles
+
 # Student Portal Demo
 This is a basic student portal application where students can:
 - View courses
